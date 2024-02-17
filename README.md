@@ -1,18 +1,52 @@
-# Symphoni Social frontend coding interview challenge 1 - Multi-step form
+# Symphoni Social frontend coding interview challenge 1 - Multi-step form solution
 
-![Design preview for the Multi-step form coding challenge](./design/desktop-preview.jpg)
+This is a solution to the Multi-step form challenge of Symphoni Social.
 
-## Welcome! 👋
+_[⭐️ Live Site URL](https://symphoni-frontend-test-1.vercel.app/)_
 
-Thanks for checking out this Symphoni Social front-end coding challenge. Please clone this repository and ensure you follow the instructions carefully. This challenge aims to evaluate your file structure, knowledge of components, and state management (ps: don't forget to like and follow 😂).
+- [Symphoni Social frontend coding interview challenge 1 - Multi-step form solution](#symphoni-social-frontend-coding-interview-challenge-1---multi-step-form-solution)
+- [Getting Started](#getting-started)
+  - [Requirements](#requirements)
+  - [Quickstart](#quickstart)
+    - [Optional Gitpod](#optional-gitpod)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Links](#links)
+  - [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+- [Thank you!](#thank-you)
 
-**To do this challenge, you need a good understanding of React.js, TypeScript, Tailwind CSS, and Zustand.**
+# Getting Started
 
-## The challenge
+## Requirements
 
-Your challenge is to build out this multi-step form and make it look as close to the design as possible.
+- [git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
+  - You'll know you did it right if you can run `git --version` and you see a response like `git version x.x.x`
+- [node.js](https://nodejs.org/en)
+  - You'll know you did it right if you can run `node --version` and you see a response like `v16.19.1`
 
-Your users should be able to:
+## Quickstart
+
+```
+git clone https://github.com/weshare237/symphoni_frontend_test_1
+cd symphoni_frontend_test_1/design
+npm install && npm run dev
+```
+
+### Optional Gitpod
+
+If you can't or don't want to run and install locally, you can work with this repo in Gitpod. If you do this, you can skip the `clone this repo` part.
+
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#github.com/weshare237/symphoni_frontend_test_1)
+
+# Overview
+
+### The challenge
+
+Users can perform the following actions:
 
 - Complete each step of the sequence
 - Go back to a previous step to update their selections
@@ -24,45 +58,38 @@ Your users should be able to:
   - The email address is not formatted correctly
   - A step is submitted, but no selection has been made
 
-If you need support during the challenge, feel free to ask questions to your recruter.
+### Links
 
-## Where to find everything
+- Live Site URL: [My Live Site URL](https://symphoni-frontend-test-1.vercel.app/)
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+## My process
 
-All the required assets for this project are in the `/assets` folder. The images are already exported for the correct screen size and optimized.
+### Built with
 
-We also include variable and static font files for the required fonts for this project. You can choose to either link to Google Fonts or use the local font files to host the fonts yourself.
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- React - JS library
 
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
+### What I learned
 
-## Building your project
+I learned how to effectively structure my files and manage state in React using the Redux Toolkit.
 
-Feel free to use any workflow that you feel comfortable with.
+### Continued development
 
-1. Initialize your project as a public repository on [GitHub](https://github.com/).
-2. Configure your repository to publish your code to a web address.
+I plan to continue refining my skills in React and exploring more advanced data fetching techniques.
 
-## Deploying your project
+### Useful resources
 
-Our recommended hosts are:
+- [MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web) - A comprehensive resource for web development information.
+- [React documentation](https://reactjs.org/docs/getting-started.html) - Official documentation for React.
+- [Zustand GitHub repository](https://github.com/pmndrs/zustand) - Documentation and examples for Zustand state management library.
 
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
+# Thank you!
 
-## Create a custom `README.md`
+If you appreciated this, feel free to follow me or donate!
 
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`.
-
-## Submitting your solution
-
-Submit your solution on the platform for the recruiters to see. If you're looking for feedback, be sure to ask specific and detailed questions when submitting it.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our recruitment process. So if you have anything you'd like to mention, please email jobs@symphonisocial.com or contact 677606169.
-
-**Have fun building!** 🚀
+[![ITutorix-CS YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@itutorix)
+[![Duclair FOPA KUETE Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duclair-fopa/)
